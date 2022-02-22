@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @P3ter2310
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning as a Mobile API student
